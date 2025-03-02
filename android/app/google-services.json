@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "292147795621",
+    "firebase_url": "https://projek-ta-dfe19-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "projek-ta-dfe19",
+    "storage_bucket": "projek-ta-dfe19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292147795621:android:fe3497580153ae1a13df4c",
+        "android_client_info": {
+          "package_name": "com.example.ta_iot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDimBQEMwW-czC8kDJrdJt3s-YgWHWXgiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
